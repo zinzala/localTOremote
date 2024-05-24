@@ -1,3 +1,6 @@
 Hello world ./ 
 i am watching Spongebob the squarePant ./
 patric and squidword are best friends of spongebob ./
+
+patric is always hungry ./
+squidward is always angry ./
